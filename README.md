@@ -2,7 +2,7 @@
 ![svg](https://user-images.githubusercontent.com/93661868/174691720-130edbea-3f67-48c0-a1f5-0a59ab6c6fdc.svg)
 ### HOLA 👋, soy Valentino Martínez
 
-🔶 Soy Desarrollador Full Stack con capacidad para desarrollar proyectos web, teniendo siempre presente que tengan las mejores practicas posibles, siendo escalables y modularizables en el tiempo.
+🔶 Soy Full Stack Developer con capacidad para desarrollar proyectos web, teniendo siempre presente que tengan las mejores practicas posibles, siendo escalables y modularizables en el tiempo.
 
 🔶Soy una persona apasionada por el mundo de la programación, me gusta mucho poder crear soluciones y resolver problemas, siempre estoy intentando aprender algo nuevo, o perfeccionar mis habilidades. Considero que haber estudiado música durante muchos años me dio mucha disciplina y dedicacion, por lo que disfruto mucho todos los procesos de aprendizaje y siempre afronto los desafios de la manera mas positiva posible, con una cuota de creatividad extra. Tengo mucha facilidad para trabajar en equipo, valoro y respeto mucho el trabajo de los demas y tengo facilidad para crear confianza y camaraderia.
 
