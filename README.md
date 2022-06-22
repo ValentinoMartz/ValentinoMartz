@@ -1,5 +1,6 @@
 
-![svg](https://user-images.githubusercontent.com/93661868/174691720-130edbea-3f67-48c0-a1f5-0a59ab6c6fdc.svg)
+![my-name-is-Valentain](https://user-images.githubusercontent.com/93661868/175049822-074a9e01-890c-4abd-988e-165456c066bb.jpg)
+
 ### HOLA 👋, soy Valentino Martínez
 
 🔶 Soy Full Stack Developer con capacidad para desarrollar proyectos web, teniendo siempre presente que tengan las mejores practicas posibles, siendo escalables y modularizables en el tiempo.
