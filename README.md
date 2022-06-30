@@ -1,20 +1,31 @@
 
 ![my-name-is-Valentain](https://user-images.githubusercontent.com/93661868/175049822-074a9e01-890c-4abd-988e-165456c066bb.jpg)
 
-### HOLA 👋, soy Valentino Martínez
+ 👋 Hello there ! My name is Valentino
 
-🔶 Soy Full Stack Developer con capacidad para desarrollar proyectos web, teniendo siempre presente que tengan las mejores practicas posibles, siendo escalables y modularizables en el tiempo.
+🔶 I'm a full-stack developer with abilities for developing web projects using multiple technologies, making them scalable and modularizable to work in a team!
 
-🔶Soy una persona apasionada por el mundo de la programación, me gusta mucho poder crear soluciones y resolver problemas, siempre estoy intentando aprender algo nuevo, o perfeccionar mis habilidades. Considero que haber estudiado música durante muchos años me dio mucha disciplina y dedicacion, por lo que disfruto mucho todos los procesos de aprendizaje y siempre afronto los desafios de la manera mas positiva posible, con una cuota de creatividad extra. Tengo mucha facilidad para trabajar en equipo, valoro y respeto mucho el trabajo de los demas y tengo facilidad para crear confianza y camaraderia.
+I have a passion for the programming world. I enjoy creating solutions and solving problems. I am always committed to learn something new or improving my previous skills. The fact of having studied a music career in the past gifted me with discipline and dedication. This is why I usually enjoy all the learning methods and processes and I always deal positively and creatively with challenges. I have got a facility for team working. I value, respect and appreciate my partners' efforts and I normally develop good links and confidence while working.
 
-📚Mi experiencia académica 
+🔶Why me?
+Although every member in this community has excellent abilities, with me you'll get a developer with a great solving problems capacity, always ready to learn and investigate new and creative solutions to different problems, and a developer always willing to teach to others and also, learn from them.
 
-🔷Soy egresado del Bootcamp de soy Henry, en donde ejercite mis capacidades técnicas y sociales como desarrollador, a través de proyectos tanto individuales como grupales, donde se aplican todas las tecnologías dictadas en la cursada. Las mismas fueron: 
-- Lenguaje de programación: JavaScript, Typescript
-- Front-end: React, Redux
+I enjoy coding, and I'm always learning something new, or mastering my abilities, I have a great capacity to learn new things in a short amount of time, and also I confront the problems with the best attitude possible.
+
+📚 About my academic history
+
+🔷I am a graduate of Henry Bootcamp where I did +800 coding hours, I learned tech skills and social skills through individual projects and also a team project where I used the next technologies : 
+- Coding language: JavaScript, Typescript
+- Front-end: React, Redux, Chakra UI, Bootstrap, Material UI
 - Back-end: NodeJs, Express
 - Databases: PostgreSQL, Sequelize, Firebase
-- Otras: Git, GitHub, Material UI, CSS, Bootstrap, SCRUM, Trello
+- Others: Git, GitHub, Material UI, CSS, Bootstrap, SCRUM, Trello.
+
+
+👨🏻‍💻Wanna know more about me? Contact me!
+Email: valentinomartinez55@gmail.com
+Portfolio: https://valentinomartinez-portfolio.vercel.app
+
 
 ```javascript
 const aboutMe = {
