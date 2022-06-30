@@ -26,8 +26,12 @@ I enjoy coding, and I'm always learning something new, or mastering my abilities
 👨🏻‍💻Wanna know more about me? Contact me!
 
 Email: valentinomartinez55@gmail.com
+<p align="left">
+<a href="https://www.linkedin.com/in/valentinomartz/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/valentinomartz/" height="30" width="40" /></a>
+</p>
 
 Portfolio: https://valentinomartinez-portfolio.vercel.app
+
 
 
 ```javascript
@@ -47,13 +51,6 @@ const aboutMe = {
    currentOccupation: [""],
 };
 ```
-
-<h3 align="left">👨🏻‍💻Quieres saber mas de mi? Contáctame!</h3>
-<p align="left">WP: +54 9 3400666416</p>
-<p align="left">Email: <b>valentinomartinez55@gmail.com</b> </p>
-<p align="left">
-<a href="https://www.linkedin.com/in/valentinomartz/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/valentinomartz/" height="30" width="40" /></a>
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/1024px-Unofficial_JavaScript_logo_2.svg.png" alt="javascript" width="40" height="40"/> </a> 
