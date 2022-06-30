@@ -22,8 +22,11 @@ I enjoy coding, and I'm always learning something new, or mastering my abilities
 - Others: Git, GitHub, Material UI, CSS, Bootstrap, SCRUM, Trello.
 
 
+
 👨🏻‍💻Wanna know more about me? Contact me!
+
 Email: valentinomartinez55@gmail.com
+
 Portfolio: https://valentinomartinez-portfolio.vercel.app
 
 
